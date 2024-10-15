@@ -39,4 +39,4 @@ Sinta-se à vontade para contribuir com melhorias ou correções. Crie um fork d
 
 ## Autor
 
-[Daniel Alexandre ([https://github.com/seuusuario](https://github.com/DanielFilhoo))
+[Daniel Alexandre (https://github.com/DanielFilhoo)]
